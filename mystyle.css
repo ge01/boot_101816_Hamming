@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: right;
+}
+li a {
+    display: block;
+    padding: 8px;
+    /*background-color: #dddddd;*/
+}
+#img-circle {
+  border-radius: 50%;
+}
+#logocont {
+  padding-top: 109;
+}
+#lst-ib {
+  width: 484px;
+  height: 38px;
+}
+#two-buttons {
+  padding: 18px;
+}
+center input {
+
+  padding-left: 16;
+  padding-right: 16;
+  border: 1;
+}
+footer ul li:nth-child(-n+3) {
+  float: left;
+}
